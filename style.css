@@ -1,0 +1,511 @@
+html, body
+{
+  height: 10%;
+  margin: 0;
+}
+
+
+
+
+.header1
+{
+	color: #fbff00;font-family: 'Yeon Sung';font-size: 60px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.header2
+{
+	color: red;
+  font-size:30px ;
+ 
+}
+
+.header3
+{
+	color: gold;font-family: 'Yeon Sung';font-size: 100px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.header4
+{
+	color: black;font-family:Arial, Helvetica, sans-serif;font-size: 100px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#b1{
+  
+	color: white;font-size: 60px;letter-spacing: 10px;margin-top: 80px;
+}
+
+
+.bookbutton{
+    background-color: #bd70e1;
+    height: 20px;
+    width: 20px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 4px;
+}
+
+.logo1
+{
+	width: 20%;margin-top: 30px;border-radius: 4px;
+}
+
+
+
+#login_button{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: gold;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#login_button:hover{
+  border: 1px solid  gold;
+  background-color: black;
+  color: gold;
+  transition: 0.8s;
+}
+
+#login_button1{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: white;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#login_button1:hover{
+  width: 20%;border-radius: 15px;
+  border: 1px solid white;
+  color: white;
+ 
+  transition: 0.8s;
+}
+
+#Healthspan 
+{
+  border-radius: 0%;
+}
+
+#others{
+  margin-top: 5px ;
+  
+}
+
+
+
+#health_button{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: gold;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#health_button:hover{
+  border: 1px solid  gold;
+  background-color: black;
+  color: gold;
+  transition: 0.8s;
+}
+#health_button1{
+  
+  font-size: 20px;
+  font-family:Roboto;
+  margin-right: 20px;
+  background: #9f58c6;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#health_button1:hover{
+  border: 1px solid #9f58c6;
+  background-color: black;
+  color: #9f58c6;
+  transition: 0.8s;
+}
+
+#health_button2{
+  font-size: 20px;
+  font-family:Roboto;
+ 
+  background: #6ccfd0;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#health_button2:hover{
+  border: 1px solid #6ccfd0;
+  background-color: black;
+  color: #6ccfd0;
+  transition: 0.8s;
+}
+
+#image_1{
+  width: 20%;margin-left: 80%;border-radius: 4px;
+}
+
+#image_2{
+  width: 20%;margin-right:80%;margin-top:-43%;
+}
+
+#image_3{
+  width: 50%;
+  margin-left:1%;
+  margin-top:10%;
+}
+
+#health_button{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.white{
+  background-color: #3e6e7e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.healthchart{
+  background-color: #66a0cc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+  background-color: grey;
+}
+
+.healthchart{
+  margin-right: 20px;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Health_Button3{
+  background: Gold;
+  font-size: 80%;
+  
+}
+
+
+
+  #HealthButton{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: #ffffff;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#HealthButton:hover{
+  border: 1px solid  #000000;
+  background-color: #59ff00;
+  color: #000000;
+  transition: 0.8s;
+}
+.header3{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.asd{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ex1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#suf{
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#suf:hover{
+  background-color: #0d56e7;
+  border: 1px solid #c756e6;
+  color: #fff;
+  transition: 0.8s;
+}
+
+.fp{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.other{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#home{
+  padding: 5%;
+  
+}
+
+.glass{
+  background-color: pink;
+}
+
+.header1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#one{
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#one:hover{
+  border: 1px solid #ffffff;
+  background: #d25bc8;
+  color: #ffffff;
+  transition: 0.8s;
+}
+
+#two{
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#two:hover{
+  border: 1px solid white;
+  background: #137c7c;
+  color: white;
+  transition: 0.8s;
+}
+
+#three{
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#three:hover{
+  border: 1px solid white;
+  background-color: #755bd2;
+  color: white;
+  transition: 0.8s;
+}
+
+#four{
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+#four:hover{
+  border: 1px solid white;
+  background-color: #9ca51d;
+  color: white; 
+  transition: 0.8s;
+}
+
+#kido{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#kidi{
+  background-color: skyblue;
+  font-size: 100px;
+}
+
+#home{
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+#home:hover{
+  border: 1px solid white;
+  background-color: #2868e6;
+  color: white;
+  transition: 0.8s;
+}
+
+#HealthButtom{
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#iq1{
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 10px;                      
+}
+
+#iq1:hover{
+  border: 1px solid wheat;
+  background-color: #883e8e;
+  color: wheat;
+  transition: 0.8s;
+}
+
+#iq{
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 10px;                      
+}
+
+#iq:hover{
+  border: 1px solid wheat;
+  background-color: #883e8e;
+  color: wheat;
+  transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+#b{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: gold;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#b:hover{
+  border: 1px solid  gold;
+  background-color: black;
+  color: gold;
+  transition: 0.8s;
+}
+
+
+#a{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: gold;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#a:hover{
+  border: 1px solid  gold;
+  background-color: black;
+  color: gold;
+  transition: 0.8s;
+}
+
+#text2{
+  cursor: pointer;
+ 
+  border-radius: 5px;
+  font-size: 20;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#iq200{
+  font-size: 20;
+ color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#q{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: gold;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#q:hover{
+  border: 1px solid  gold;
+  background-color: black;
+  color: gold;
+  transition: 0.8s;
+}
+
+
+#back{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: red;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-left: 91%;
+
+}
+
+#back:hover{
+  border: 1px solid  red;
+  background-color: gold;
+  color: red;
+  transition: 0.8s;
+}
+
+#home{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: red;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-left: 92%;
+  height: 60;
+
+}
+#home:hover{
+  border: 1px solid  red;
+  background-color: gold;
+  color: red;
+  transition: 0.8s;
+}
+
+#home1{
+
+  font-size: 20px;
+  font-family:Roboto;
+  background: red;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-left: 92%;
+  margin-top: -81%;
+  height: 60;
+
+}
+
+#home1:hover{
+  border: 1px solid  red;
+  background-color: gold;
+  color: red;
+  transition: 0.8s;
+}

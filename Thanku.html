@@ -1,0 +1,83 @@
+<html>
+  <head>
+    <title>
+      THANKYOU!
+    </title>
+    <script src="Thanku.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <style type="text/css">
+            body{
+background-image: url(bg5.jpg);
+background-size: cover;
+            }
+         </style>
+  </head>
+  <body>
+    
+    <center><h1 class="header4">"PREVENTION IS BETTER THAN CURE" </h1>
+     <br>
+      <div class="t1">
+        <label id="number" class="text1">CALORIES   </label>
+        <label id="number" class="text1">(cal)</label>
+        
+      </div>
+      <br>
+      <button id="a" onclick="ramdom()">Get CALORIES</button>
+
+    <br><br>
+
+       
+      
+    
+      <img src=Tick.gif>
+      <h1>Thank you!</h1>
+      <br> 
+      <h1 class="asd">for exploring HealthSPAN</h1>
+      <br>
+      <button id="home1" onclick="home1()">HOME</button>
+      
+    </center>
+    
+  </body>
+
+<script>
+
+function ramdom(){
+  document.getElementById("number").innerHTML =  Math. floor(Math. random() * 500) + 200
+
+}
+
+</script>
+
+<style>
+
+
+#number {
+
+  font-size:90px;
+
+}
+
+#a {
+
+  width: 150px;
+  height: 60px;
+}
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
